@@ -91,16 +91,6 @@ A BibTeX entry for LaTeX users is
 
 ![](pinball.gif)
 
-![](token1.png)
-
-
-![](pinball.gif)
-
-![](token2.png)
-
-
-![](pinball.gif)
-
 ![](token3.png)
 
 
@@ -185,24 +175,31 @@ references:
 ### - CFF enables correct citation of software
 ### - CFF enforces [Software Citation Principles](https://peerj.com/articles/cs-86/)
 ### - CFF is human-readable and -writable
-### - CFF is self-explanatory
-### - CFF is compatible with other formats for downstream use
+### - CFF is self-documenting (CITATION.cff, message)
+### - CFF is compatible with downstream formats
 
 
 
-## How to use CFF
-### 1. Copy and paste the example from the CFF homepage
+# How to use CFF
+### 1. Copy and paste the example from the [CFF homepage](https://citation-file-format.github.io)
 ### 2. Replace details with your own
 
 
-### Tooling
+# Tooling
+
+- Getting started: [**CFF initializer**](https://citation-file-format.github.io/cff-initializer-javascript/) (Jurriaan Spaaks)
+- **Tools for conversion, creation, manipulation, etc.** in different programming languages available: <https://github.com/citation-file-format/>
+- **Software Citation Central Station** (SoCCS), development in progress, check back after the CFF Hack Day on Wednesday 5 Sep
 
 
 
 
 # What have we learned?
 
-...
+1. ### Machine-readable CITATION files are needed to harness the software citation workflow from the start
+2. ### The Citation File Format is suitable, and provides further features
+3. ### You should try it **NOW** and add a file to your software
+<li class="fragment dae-in"><h3>It's got nothing to do with pinball really</h3></li>
 
 
 
@@ -225,6 +222,8 @@ Jurriaan H. Spaaks,
 Stefan Verhoeven
 
 **Early CFF adopters:** The Netherlands eScience Center
+
+**RSE18 Mentoring Programme:** Neil Chue Hong 
 
 **The Software Sustainability Institute** for funding assistance (EPSRC, BBSRC, ESRC Grant EP/N006410/1)
 
