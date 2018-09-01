@@ -4,7 +4,7 @@ Stephan Druskat
 
 Third Conference of Research Software Engineers, University of Birmingham, Birmingham, UK, 4 September 2018.
 
-Slides: https://sdruskat.net/citation-file-format-rse18/  
+Slides: https://sdruskat.net/rse18-citation-file-format/  
 
 Note:
 Okay, notes work! 3 blank lines = left, 2 blank lines = down.
