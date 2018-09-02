@@ -109,6 +109,8 @@ A BibTeX entry for LaTeX users is
 ### A *machine-readable* format for CITATION files
 
 
+### CITATION.cff
+
 ```yaml
 cff-version: 1.0.3
 message: "If you use this software, cite it as below."
@@ -122,6 +124,8 @@ doi: "10.5281/zenodo.1234"
 date-released: 2017-12-18
 ```
 
+
+### CITATION.cff
 
 ```yaml
 cff-version: 1.0.3
@@ -137,6 +141,8 @@ title: My Research Tool
 ...
 ```
 
+
+### CITATION.cff
 
 ```yaml
 cff-version: 1.0.3
