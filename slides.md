@@ -108,6 +108,11 @@ A BibTeX entry for LaTeX users is
 # What is CFF *exactly*?
 ### A *machine-readable* format for CITATION files
 
+WSSSPE5.1 blog post: ["A standard format for CITATION files"](http://bit.ly/ssi-citation-file-format).
+
+![WSSSPE5.1 blog post](cffblog.png)
+<!-- .element height="50%" width="50%" -->
+
 
 ### CITATION.cff
 
