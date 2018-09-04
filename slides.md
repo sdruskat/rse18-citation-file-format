@@ -205,7 +205,6 @@ references:
 1. ### Machine-readable CITATION files are needed to harness the software citation workflow from the start
 2. ### The Citation File Format is suitable, and provides further features
 3. ### You should try it **NOW** and add a file to your software
-<li class="fragment dae-in"><h3>It's got nothing to do with pinball really</h3></li>
 
 
 
